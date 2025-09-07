@@ -1,0 +1,14 @@
+C:\all\projects\programming\C#\CalculatorApp\CalculatorApp\bin\Debug\net9.0\CalculatorApp.exe
+C:\all\projects\programming\C#\CalculatorApp\CalculatorApp\bin\Debug\net9.0\CalculatorApp.deps.json
+C:\all\projects\programming\C#\CalculatorApp\CalculatorApp\bin\Debug\net9.0\CalculatorApp.runtimeconfig.json
+C:\all\projects\programming\C#\CalculatorApp\CalculatorApp\bin\Debug\net9.0\CalculatorApp.dll
+C:\all\projects\programming\C#\CalculatorApp\CalculatorApp\bin\Debug\net9.0\CalculatorApp.pdb
+C:\all\projects\programming\C#\CalculatorApp\CalculatorApp\obj\Debug\net9.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\all\projects\programming\C#\CalculatorApp\CalculatorApp\obj\Debug\net9.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\all\projects\programming\C#\CalculatorApp\CalculatorApp\obj\Debug\net9.0\CalculatorApp.AssemblyInfo.cs
+C:\all\projects\programming\C#\CalculatorApp\CalculatorApp\obj\Debug\net9.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\all\projects\programming\C#\CalculatorApp\CalculatorApp\obj\Debug\net9.0\CalculatorApp.dll
+C:\all\projects\programming\C#\CalculatorApp\CalculatorApp\obj\Debug\net9.0\refint\CalculatorApp.dll
+C:\all\projects\programming\C#\CalculatorApp\CalculatorApp\obj\Debug\net9.0\CalculatorApp.pdb
+C:\all\projects\programming\C#\CalculatorApp\CalculatorApp\obj\Debug\net9.0\CalculatorApp.genruntimeconfig.cache
+C:\all\projects\programming\C#\CalculatorApp\CalculatorApp\obj\Debug\net9.0\ref\CalculatorApp.dll
