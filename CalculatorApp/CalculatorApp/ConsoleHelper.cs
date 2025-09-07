@@ -35,9 +35,11 @@
         public static bool AskYesOrNo(string message = "Да или нет?")
         {
             char answer;
-            while (!ReadAnswer(['д', 'н'], out answer)) ;
+            do Console.Write($"{message} (д/н): ");
+            while (!ReadAnswer(['д', 'н'], out answer));
             if (answer == 'д') return true;
             return false;
         }
     }
 }
+
